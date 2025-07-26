@@ -57,28 +57,6 @@ Predict whether a customer will purchase a holiday package based on their demogr
 
 ---
 
-## 📁 Project Structure
-
-.
-├── Dataset/
-│   └── Travel.csv                    
-├── Models/
-│   ├── gradientboosting.pkl
-│   └── preprocessor.pkl             
-├── Images/
-│   ├── heatmap.png                   
-│   ├── Model-Comparison.png         
-│   ├── Pie.png                      
-│   └── Roc-Auc-Curve/
-│       ├── Log_roc_curve.png        
-│       └── ...                      # Other model ROC curves
-├── app.py                            
-├── prediction_log.csv               
-├── README.md                        
-└── requirements.txt                 
-
----
-
 ## Visualizations
 
 ### Product Taken Vs Product Not Taken Pie Chart
