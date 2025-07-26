@@ -1,0 +1,5 @@
+Age,TypeofContact,CityTier,Gender,Occupation,NumberOfFollowups,ProductPitched,PreferredPropertyStar,Passport,OwnCar,MaritalStatus,NumberOfTrips,PitchSatisfactionScore,TotalVisits,DurationOfPitch,Designation,MonthlyIncome,ProductTaken
+30,Self Enquiry,1,Male,Salaried,3.0,Deluxe,4.0,1,1,Married,4,3,4,8,Executive,300000,0
+38,Self Enquiry,2,Male,Free Lancer,3.0,Standard,3.0,1,1,Married,6,4,4,18,Executive,120000,0
+41,Self Enquiry,3,Female,Salaried,3.0,Deluxe,3.0,1,1,Unmarried,1,2,3,6,Manager,20993,1
+30,Company Invited,2,Male,Large Business,6.0,King,4.0,0,0,Divorced,3,3,4,24,VP,130000,0
