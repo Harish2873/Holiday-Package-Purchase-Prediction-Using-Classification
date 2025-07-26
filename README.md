@@ -101,6 +101,6 @@ Predict whether a customer will purchase a holiday package based on their demogr
 ## Streamlit
 
 🔗 Live Demo
-👉 [Click here to open the Streamlit App]()
+👉 [Click here to open the Streamlit App](https://holiday-package-purchase-prediction-using-classification.streamlit.app/)
 
 ---
